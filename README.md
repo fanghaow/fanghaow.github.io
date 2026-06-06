@@ -1,5 +1,3 @@
-# Binghong Personal Website
+# Fanghao Wang's Personal Website
 
-```Bash
-python3 -m http.server 8000
-```
+This is the source code to Fanghao Wang's public academic website: https://fanghaow.github.io.
